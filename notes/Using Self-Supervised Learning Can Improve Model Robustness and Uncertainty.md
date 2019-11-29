@@ -1,8 +1,8 @@
 # Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty
 
-Dan Hendrycks(UCB), Saurav Kadavath(UCB), Mantas Mazeika(UIUC), Dawn Song(UCB) 
-
 [link](http://arxiv.org/abs/1906.12340)
+
+Dan Hendrycks(UCB), Saurav Kadavath(UCB), Mantas Mazeika(UIUC), Dawn Song(UCB) 
 
 ### Highlight
 
