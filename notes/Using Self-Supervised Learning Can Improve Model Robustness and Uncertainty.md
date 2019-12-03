@@ -8,10 +8,10 @@ Dan Hendrycks(UCB), Saurav Kadavath(UCB), Mantas Mazeika(UIUC), Dawn Song(UCB)
 
 This paper shows findings about combine self-supervised learning with supervised learning can improve model's performance on robustness and uncertainty. It serves like a summary with experiments.
 
-In this paper, they found self-spervision can:
+In this paper, they found self-supervision can:
 
 -  improve model's **robustness** to **adversarial examples, label corruption and common input corruptions**. 
-- benefits **out-of-distribution** (OOD) detection on difficult, near-distribution outliers
+-  benefits **out-of-distribution** (OOD) detection on difficult, near-distribution outliers
 
 This paper has essentially no theory, but proposes lots of interesting directions for future work. 
 
