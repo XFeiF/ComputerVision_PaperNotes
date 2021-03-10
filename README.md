@@ -1,8 +1,8 @@
-# Video_PaperNotes  
+# Computer Vision PaperNotes  
 
 I am interested in Computer Vision and Machine Learning. Specifically on the topics of Self-Supervised Learning and Video Understanding (action recognition).  
 
-Mainly use this repo to summary the papers I've read.  
+I mainly use this repo to summary the papers I have read.  
 
 Issues are used to do short summaries and write some thoughts. 
 And feel free to comment and talk with me at the issue page.   
